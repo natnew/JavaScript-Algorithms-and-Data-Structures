@@ -17,7 +17,7 @@ This repo contains my responsive web design projects. 🎁
 
 ## Projects
 * Palindrome Checker
-* Roman Numerl Converter
+* Roman Numeral Converter
 * Caesars Cipher
 * Telephone Number Validator
 * Cash register
